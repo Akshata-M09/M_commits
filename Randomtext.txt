@@ -9,3 +9,4 @@ some random text
 
 mergevsrebase line1
 mergevsrebase line2
+mergevsrebase line3
