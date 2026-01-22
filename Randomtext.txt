@@ -8,3 +8,4 @@ some random text
 4th line
 
 mergevsrebase line1
+mergevsrebase line2
